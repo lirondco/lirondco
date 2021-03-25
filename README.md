@@ -1,8 +1,5 @@
 ### Hi there 👋
 
-<!--
-**lirondco/lirondco** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 #### About Me 👧
 
 Hi. I'm Liron and I am a full stack web developer based in Southern California and remotely, in Israel. I currently work with React.JS, jQuery, HTML5, CSS, PostgreSQL, and Express. If what you need is not what I listed, still try asking me anyway. I also like maps and graphs.
