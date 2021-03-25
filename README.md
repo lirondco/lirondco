@@ -33,7 +33,7 @@ Check out my [website](https://www.lirondc.com) if you wanna learn more and see 
  > 
 > 📦 0 Bytes Used in Github's Storage 
  > 
-> 🚫 Not Opted to Hire
+> 💼 Opted to Hire
  > 
 > 📜 42 Public Repositories 
  > 
