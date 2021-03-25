@@ -25,4 +25,7 @@ Check out my [website](https://www.lirondc.com) if you wanna learn more and see 
 ### Languages
 
 <!--START_SECTION:waka-->
+```text
+No Activity tracked this Week
+```
 <!--END_SECTION:waka-->
