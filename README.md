@@ -25,7 +25,76 @@ Check out my [website](https://www.lirondc.com) if you wanna learn more and see 
 ### Languages
 
 <!--START_SECTION:waka-->
+![Profile Views](http://img.shields.io/badge/Profile%20Views-3-blue)
+
+**🐱 My Github Data** 
+
+> 🏆 79 Contributions in the Year 2021
+ > 
+> 📦 0 Bytes Used in Github's Storage 
+ > 
+> 🚫 Not Opted to Hire
+ > 
+> 📜 42 Public Repositories 
+ > 
+> 🔑 0 Private Repositories  
+ > 
+**I'm an Early 🐤** 
+
 ```text
-No Activity tracked this Week
+🌞 Morning    1 commits      ████████░░░░░░░░░░░░░░░░░   33.33% 
+🌆 Daytime    2 commits      ████████████████░░░░░░░░░   66.67% 
+🌃 Evening    0 commits      ░░░░░░░░░░░░░░░░░░░░░░░░░   0.0% 
+🌙 Night      0 commits      ░░░░░░░░░░░░░░░░░░░░░░░░░   0.0%
+
 ```
+📅 **I'm Most Productive on Saturday** 
+
+```text
+Monday       0 commits      ░░░░░░░░░░░░░░░░░░░░░░░░░   0.0% 
+Tuesday      0 commits      ░░░░░░░░░░░░░░░░░░░░░░░░░   0.0% 
+Wednesday    1 commits      ████████░░░░░░░░░░░░░░░░░   33.33% 
+Thursday     0 commits      ░░░░░░░░░░░░░░░░░░░░░░░░░   0.0% 
+Friday       0 commits      ░░░░░░░░░░░░░░░░░░░░░░░░░   0.0% 
+Saturday     2 commits      ████████████████░░░░░░░░░   66.67% 
+Sunday       0 commits      ░░░░░░░░░░░░░░░░░░░░░░░░░   0.0%
+
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+⌚︎ Time Zone: America/Los_Angeles
+
+💬 Programming Languages: 
+No Activity Tracked This Week
+
+🔥 Editors: 
+No Activity Tracked This Week
+
+🐱‍💻 Projects: 
+No Activity Tracked This Week
+
+💻 Operating System: 
+No Activity Tracked This Week
+
+```
+
+**I Mostly Code in JavaScript** 
+
+```text
+JavaScript               37 repos            █████████████████████░░░░   84.09% 
+HTML                     5 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   11.36% 
+Ruby                     1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   2.27% 
+CSS                      1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   2.27%
+
+```
+
+
+**Timeline**
+
+![Chart not found](https://raw.githubusercontent.com/lirondco/lirondco/main/charts/bar_graph.png) 
+
+
 <!--END_SECTION:waka-->
