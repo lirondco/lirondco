@@ -22,7 +22,7 @@ Check out my [website](https://www.lirondc.com) if you wanna learn more and see 
 - [Spaced Repetition](https://spacedrep.lirondc.com) - A demo of the Spaced Repetition method in learning vocabulary of a new language. Built with React and a PostgreSQL backend.
 - [Quiz App](https://lirondco.github.io/Quiz-App/) - A little quiz app that I made a while ago using jQuery. It's fun, but it's also very particularly nerdy.
 
-### Languages
+### Stats for Nerds like me
 
 <!--START_SECTION:waka-->
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-3-blue)
