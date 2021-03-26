@@ -25,11 +25,11 @@ Check out my [website](https://www.lirondc.com) if you wanna learn more and see 
 ### Stats for Nerds like me
 
 <!--START_SECTION:waka-->
-![Profile Views](http://img.shields.io/badge/Profile%20Views-3-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-112-blue)
 
 **🐱 My Github Data** 
 
-> 🏆 79 Contributions in the Year 2021
+> 🏆 84 Contributions in the Year 2021
  > 
 > 📦 0 Bytes Used in Github's Storage 
  > 
