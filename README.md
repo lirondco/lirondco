@@ -9,7 +9,7 @@ I also enjoy video games, the outdoors, cooking, and sometimes I try photography
 Check out my [website](https://www.lirondc.com) if you wanna learn more and see colors! 
 
 
-- 🌱 I’m currently learning Python, French, and Cantonese.
+- 🌱 I’m currently learning GraphQL, French, and Cantonese.
 - 💬 Ask me about how to say stuff in Hebrew. Webdev-related questions are ok too.
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/liron-de-castro/) || [Twitter](https://twitter.com/lirondecastro) || [liron.decastro@gmail.com](mailto:liron.decastro@gmail.com) 
 - 😄 Pronouns: She/Her
