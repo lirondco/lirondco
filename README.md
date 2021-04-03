@@ -2,7 +2,7 @@
 
 #### About Me 👧
 
-Hi. I'm Liron and I am a full stack web developer based in Southern California and remotely, in Israel. I currently work with React.JS, jQuery, HTML5, CSS, PostgreSQL, and Express. If what you need is not what I listed, still try asking me anyway. I also like maps and graphs.
+Hi. I'm Liron and I am a full stack web developer based in Southern California and remotely, in Israel. I currently work with React.JS, Next.JS, jQuery, HTML5, CSS, PostgreSQL, Helmet.js, Express, AWS Lambda and DynamoDB. I also do unit and integration testing with Jest, Enzyme, Supertest, Chai, and Mocha. If what you need is not what I listed, still try asking me anyway. I also like maps and graphs.
 
 I also enjoy video games, the outdoors, cooking, and sometimes I try photography too!
 
