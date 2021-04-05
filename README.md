@@ -25,7 +25,7 @@ Check out my [website](https://www.lirondc.com) if you wanna learn more and see 
 ### Stats for Nerds like me
 
 <!--START_SECTION:waka-->
-![Profile Views](http://img.shields.io/badge/Profile%20Views-145-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-146-blue)
 
 **🐱 My Github Data** 
 
