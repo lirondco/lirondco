@@ -20,7 +20,11 @@ Check out my [website](https://www.lirondc.com) if you wanna learn more and see 
 - [Maslool](https://maslool.lirondc.com) - A forum-like website for outdoor enthusiasts built with React with a PostgreSQL backend. 
 - [ForgetMeNot](https://forgetmenot.lirondc.com) - A classic reminder app built with a React frontend and a PostgreSQL backend.
 - [Spaced Repetition](https://spacedrep.lirondc.com) - A demo of the Spaced Repetition method in learning vocabulary of a new language. Built with React and a PostgreSQL backend.
-- [Quiz App](https://lirondco.github.io/Quiz-App/) - A little quiz app that I made a while ago using jQuery. It's fun, but it's also very particularly nerdy.
+
+### 'Hour' Projects
+These are projects that I do using fun challenges found all over the internet. I call them hour projects because they all took an hour to build. Expect a new one once every few days.
+
+- [Quote_Machine](https://quote-machine.lirondc.com/) - A simple quote generator interface created using React and Typescript. Challenge courtesy of FreeCodeCamp.
 
 ### Stats for Nerds like me
 
