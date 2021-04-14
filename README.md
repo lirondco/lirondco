@@ -26,7 +26,7 @@ These are projects that I do using fun challenges found all over the internet. I
 
 - [Quote_Machine](https://quote-machine.lirondc.com/) - A simple quote generator interface created using React and Typescript. Challenge courtesy of FreeCodeCamp.
 
-### Stats for Nerds like me
+### Weekly Stats for Nerds like me
 
 <!--START_SECTION:waka-->
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-42-blue)
