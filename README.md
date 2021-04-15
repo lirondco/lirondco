@@ -22,7 +22,7 @@ Check out my [website](https://www.lirondc.com) if you wanna learn more and see 
 - [Spaced Repetition](https://spacedrep.lirondc.com) - A demo of the Spaced Repetition method in learning vocabulary of a new language. Built with React and a PostgreSQL backend.
 
 ### 'Hour' Projects
-These are projects that I do using fun challenges found all over the internet. I call them hour projects because they all took an hour to build. Expect a new one once every few days.
+These are projects that I do using fun challenges found all over the internet. I call them hour projects because they all took an hour to build. Expect a new one once every few days. I do them on CodePen too. [Check them out!](https://codepen.io/lirondco)
 
 - [Quote_Machine](https://quote-machine.lirondc.com/) - A simple quote generator interface created using React and Typescript. Challenge courtesy of FreeCodeCamp.
 - [MDPreviewer](https://mdpreviewer.lirondc.com/) - A simple MarkDown text editor and previewer interface created using React and Typescript. Has multiple UX features and protection against XSS attacks. Challenge courtesy of FreeCodeCamp.
