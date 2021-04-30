@@ -37,13 +37,13 @@ These are projects that I do using fun challenges found all over the internet. I
 ### Weekly Stats for Nerds like me <a name="stats"></a>
 
 <!--START_SECTION:waka-->
-![Profile Views](http://img.shields.io/badge/Profile%20Views-52-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-19-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-63449%20lines%20of%20code-blue)
 
 **🐱 My Github Data** 
 
-> 🏆 104 Contributions in the Year 2021
+> 🏆 106 Contributions in the Year 2021
  > 
 > 📦 57.9 kB Used in Github's Storage 
  > 
