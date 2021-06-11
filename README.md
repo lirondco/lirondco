@@ -3,7 +3,8 @@
 
 #### About Me 👧 <a name="about"></a>
 
-Hi. I'm Liron and I am a full stack web developer based in Southern California. I mostly code using CSS, HTML, Javascript and Typescript with React (+ Native), Next, Vue, Node, and Express, and SQL with PostgreSQL (+ PostGIS) and MySQL. I also do unit and integration testing with Jest, Enzyme, Supertest, Chai, and Mocha. If what you need is not what I listed, still try asking me anyway. I also like maps and graphs. Currently contributes to https://spicygreenbook.org/. Check them out, they're really awesome.
+
+Hi. I'm Liron and I am a full stack web developer based in Southern California. I mostly code using CSS, HTML, Javascript and Typescript with React (+ Native), Next, Vue, Node, and Express, SalesForce Development, and SQL with PostgreSQL (+ PostGIS) and MySQL. I also do unit and integration testing with Jest, Enzyme, Supertest, Chai, and Mocha. If what you need is not what I listed, still try asking me anyway. I also like maps and graphs. Currently contributes to https://spicygreenbook.org/. Check them out, they're really awesome.
 
 I also enjoy video games, the outdoors, cooking, and sometimes I try photography too!
 
