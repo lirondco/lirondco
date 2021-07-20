@@ -12,7 +12,7 @@ Check out my [website](https://www.lirondc.com) if you wanna learn more and see 
 
 
 - 🌱 I’m currently learning GraphQL, French, 廣東話.
-- 💬 Ask me about how to say stuff in Hebrew. Or make you a website.
+- 💬 Ask me about how to say stuff in Hebrew 🤌🏼. Or make you a website.
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/liron-de-castro/) || [Twitter](https://twitter.com/lirondecastro) || [liron.decastro@gmail.com](mailto:liron.decastro@gmail.com) 
 - 😄 Pronouns: She/Her
 - ⚡ Fun fact: I can solve the Rubik's cube. Fast? Nope. But I can solve it! 
