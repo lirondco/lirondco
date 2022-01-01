@@ -47,7 +47,7 @@ These are projects that I do using fun challenges found all over the internet. I
 
 **🐱 My GitHub Data** 
 
-> 🏆 551 Contributions in the Year 2021
+> 🏆 0 Contributions in the Year 2022
  > 
 > 📦 208.2 kB Used in GitHub's Storage 
  > 
@@ -86,22 +86,16 @@ Sunday       5 commits      ░░░░░░░░░░░░░░░░░�
 ⌚︎ Time Zone: America/Los_Angeles
 
 💬 Programming Languages: 
-TypeScript               6 hrs 42 mins       ████████████████████░░░░░   79.77% 
-OpenEdge ABL             52 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   10.32% 
-XML                      16 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   3.31% 
-Bash                     11 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   2.33% 
-JSON                     8 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   1.63%
+No Activity Tracked This Week
 
 🔥 Editors: 
-VS Code                  8 hrs 24 mins       █████████████████████████   100.0%
+No Activity Tracked This Week
 
 🐱‍💻 Projects: 
-jahudistan-site          7 hrs 6 mins        █████████████████████░░░░   84.42% 
-COREVEST_FULL            1 hr 5 mins         ███░░░░░░░░░░░░░░░░░░░░░░   13.04% 
-HCP-New                  12 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   2.54%
+No Activity Tracked This Week
 
 💻 Operating System: 
-Mac                      8 hrs 24 mins       █████████████████████████   100.0%
+No Activity Tracked This Week
 
 ```
 
@@ -122,7 +116,7 @@ CSS                      2 repos             ░░░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/lirondco/lirondco/main/charts/bar_graph.png) 
 
 
- Last Updated on 31/12/2021
+ Last Updated on 01/01/2022
 <!--END_SECTION:waka-->
 
 [Back to Top](#about)
