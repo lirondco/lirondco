@@ -49,7 +49,7 @@ These are projects that I do using fun challenges found all over the internet. I
 
 > 🏆 0 Contributions in the Year 2022
  > 
-> 📦 208.2 kB Used in GitHub's Storage 
+> 📦 207.6 kB Used in GitHub's Storage 
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -116,7 +116,7 @@ CSS                      2 repos             ░░░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/lirondco/lirondco/main/charts/bar_graph.png) 
 
 
- Last Updated on 01/01/2022
+ Last Updated on 02/01/2022
 <!--END_SECTION:waka-->
 
 [Back to Top](#about)
