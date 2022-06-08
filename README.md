@@ -8,7 +8,7 @@
 #### About Me 👧 <a name="about"></a>
 
 
-Hi. I'm Liron and I am a full stack web developer based in Southern California. I mostly code using CSS, HTML, Javascript and Typescript with React (+ Native), Next, Vue, Node, and Express, SalesForce Development, and SQL with PostgreSQL (+ PostGIS) and MySQL. I also do unit and integration testing with Jest, Enzyme, Supertest, Chai, and Mocha. If what you need is not what I listed, still try asking me anyway. I also like maps and graphs. 
+Hi. I'm Liron and I am a full stack web developer based in Southern California. I am currently a fullstack Salesforce developer working with LWC, Aura, Visualforce, APEX, and other dev-related salesforce integrations. I code with CSS, HTML, Javascript and Typescript with React (+ Native), Next, Vue, Node, and Express, SalesForce Development, and SQL with PostgreSQL (+ PostGIS) and MySQL. I also do unit and integration testing for both front-end and back-end applications. I also like maps and graphs and languages.
 
 I also enjoy video games, the outdoors, cooking, and sometimes I try photography too!
 
@@ -51,7 +51,7 @@ These are projects that I do using fun challenges found all over the internet. I
 
 **🐱 My GitHub Data** 
 
-> 🏆 173 Contributions in the Year 2022
+> 🏆 172 Contributions in the Year 2022
  > 
 > 📦 235.6 kB Used in GitHub's Storage 
  > 
@@ -90,22 +90,22 @@ Sunday       0 commits      ░░░░░░░░░░░░░░░░░�
 ⌚︎ Time Zone: America/Los_Angeles
 
 💬 Programming Languages: 
-OpenEdge ABL             6 hrs 25 mins       ██████████░░░░░░░░░░░░░░░   41.01% 
-JavaScript               3 hrs 51 mins       ██████░░░░░░░░░░░░░░░░░░░   24.63% 
-XML                      2 hrs 49 mins       ████░░░░░░░░░░░░░░░░░░░░░   17.99% 
-Other                    1 hr 30 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   9.63% 
-JSON                     40 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   4.33%
+OpenEdge ABL             7 hrs 53 mins       ███████████░░░░░░░░░░░░░░   46.45% 
+JavaScript               4 hrs 1 min         ██████░░░░░░░░░░░░░░░░░░░   23.65% 
+XML                      2 hrs 29 mins       ███░░░░░░░░░░░░░░░░░░░░░░   14.69% 
+Other                    1 hr 31 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   9.01% 
+JSON                     40 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   3.99%
 
 🔥 Editors: 
-VS Code                  15 hrs 40 mins      █████████████████████████   100.0%
+VS Code                  17 hrs              █████████████████████████   100.0%
 
 🐱‍💻 Projects: 
-COREVEST_FULL            8 hrs 29 mins       █████████████░░░░░░░░░░░░   54.12% 
-HCP-New                  5 hrs 6 mins        ████████░░░░░░░░░░░░░░░░░   32.54% 
-FiveStar                 2 hrs 5 mins        ███░░░░░░░░░░░░░░░░░░░░░░   13.34%
+COREVEST_FULL            9 hrs 42 mins       ██████████████░░░░░░░░░░░   57.08% 
+HCP-New                  4 hrs 29 mins       ██████░░░░░░░░░░░░░░░░░░░   26.44% 
+FiveStar                 2 hrs 48 mins       ████░░░░░░░░░░░░░░░░░░░░░   16.48%
 
 💻 Operating System: 
-Mac                      15 hrs 40 mins      █████████████████████████   100.0%
+Mac                      17 hrs              █████████████████████████   100.0%
 
 ```
 
@@ -126,7 +126,7 @@ CSS                      2 repos             ░░░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/lirondco/lirondco/main/charts/bar_graph.png) 
 
 
- Last Updated on 08/06/2022 18:50:34 UTC
+ Last Updated on 07/06/2022 18:48:22 UTC
 <!--END_SECTION:waka-->
 
 [Back to Top](#about)
