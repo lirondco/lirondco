@@ -20,6 +20,7 @@ Check out my [website](https://www.lirondc.com) if you wanna learn more and see 
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/liron-de-castro/) || [Twitter](https://twitter.com/lirondecastro) || [liron.decastro@gmail.com](mailto:liron.decastro@gmail.com) 
 - 😄 Pronouns: She/Her
 - ⚡ Fun fact: I can solve the Rubik's cube. Fast? Nope. But I can solve it! 
+- 🗣 Speaks, from most fluent to least: English, עברית, Tagalog, Українською, Русском (пытаюсь забыть), Español, Français 
 
 [Back to Top](#about)
 
