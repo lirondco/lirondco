@@ -44,7 +44,7 @@ These are projects that I do using fun challenges found all over the internet. I
 ### Weekly Stats for Nerds like me <a name="stats"></a>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C828%20hrs%2034%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-0%20secs-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
@@ -62,55 +62,6 @@ These are projects that I do using fun challenges found all over the internet. I
  > 
 > 🔑 22 Private Repositories  
  > 
-**I'm an Early 🐤** 
-
-```text
-🌞 Morning    56 commits     ██████████░░░░░░░░░░░░░░░   40.88% 
-🌆 Daytime    66 commits     ████████████░░░░░░░░░░░░░   48.18% 
-🌃 Evening    12 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   8.76% 
-🌙 Night      3 commits      ░░░░░░░░░░░░░░░░░░░░░░░░░   2.19%
-
-```
-📅 **I'm Most Productive on Thursday** 
-
-```text
-Monday       17 commits     ███░░░░░░░░░░░░░░░░░░░░░░   12.41% 
-Tuesday      5 commits      █░░░░░░░░░░░░░░░░░░░░░░░░   3.65% 
-Wednesday    22 commits     ████░░░░░░░░░░░░░░░░░░░░░   16.06% 
-Thursday     51 commits     █████████░░░░░░░░░░░░░░░░   37.23% 
-Friday       42 commits     ███████░░░░░░░░░░░░░░░░░░   30.66% 
-Saturday     0 commits      ░░░░░░░░░░░░░░░░░░░░░░░░░   0.0% 
-Sunday       0 commits      ░░░░░░░░░░░░░░░░░░░░░░░░░   0.0%
-
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-⌚︎ Time Zone: America/Los_Angeles
-
-💬 Programming Languages: 
-JavaScript               7 hrs 58 mins       █████████░░░░░░░░░░░░░░░░   37.9% 
-OpenEdge ABL             6 hrs 18 mins       ███████░░░░░░░░░░░░░░░░░░   29.96% 
-XML                      3 hrs 18 mins       ████░░░░░░░░░░░░░░░░░░░░░   15.72% 
-Other                    3 hrs 8 mins        ███░░░░░░░░░░░░░░░░░░░░░░   14.95% 
-JSON                     8 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.68%
-
-🔥 Editors: 
-VS Code                  21 hrs 2 mins       █████████████████████████   100.0%
-
-🐱‍💻 Projects: 
-HCP-New                  11 hrs 53 mins      ██████████████░░░░░░░░░░░   56.51% 
-COREVEST_FULL            7 hrs 10 mins       ████████░░░░░░░░░░░░░░░░░   34.1% 
-LironDevSandbox          1 hr 52 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   8.88% 
-FiveStar                 6 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.52%
-
-💻 Operating System: 
-Mac                      21 hrs 2 mins       █████████████████████████   100.0%
-
-```
-
 **I Mostly Code in JavaScript** 
 
 ```text
@@ -128,7 +79,7 @@ CSS                      2 repos             ░░░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/lirondco/lirondco/main/charts/bar_graph.png) 
 
 
- Last Updated on 03/09/2022 18:51:17 UTC
+ Last Updated on 04/09/2022 18:49:44 UTC
 <!--END_SECTION:waka-->
 
 [Back to Top](#about)
