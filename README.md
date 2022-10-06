@@ -44,7 +44,7 @@ These are projects that I do using fun challenges found all over the internet. I
 ### Weekly Stats for Nerds like me <a name="stats"></a>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C907%20hrs%204%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C914%20hrs%205%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
@@ -52,9 +52,9 @@ These are projects that I do using fun challenges found all over the internet. I
 
 **🐱 My GitHub Data** 
 
-> 🏆 361 Contributions in the Year 2022
+> 🏆 362 Contributions in the Year 2022
  > 
-> 📦 245.1 kB Used in GitHub's Storage 
+> 📦 245.4 kB Used in GitHub's Storage 
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -91,23 +91,23 @@ Sunday       0 commits      ░░░░░░░░░░░░░░░░░�
 ⌚︎ Time Zone: America/Los_Angeles
 
 💬 Programming Languages: 
-JavaScript               7 hrs 55 mins       ████████░░░░░░░░░░░░░░░░░   33.25% 
-OpenEdge ABL             7 hrs 25 mins       ███████░░░░░░░░░░░░░░░░░░   31.18% 
-XML                      4 hrs 10 mins       ████░░░░░░░░░░░░░░░░░░░░░   17.53% 
-Other                    2 hrs 18 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   9.69% 
-HTML                     1 hr 37 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   6.85%
+JavaScript               8 hrs 55 mins       ████████░░░░░░░░░░░░░░░░░   33.28% 
+OpenEdge ABL             7 hrs 49 mins       ███████░░░░░░░░░░░░░░░░░░   29.19% 
+XML                      4 hrs 35 mins       ████░░░░░░░░░░░░░░░░░░░░░   17.16% 
+Other                    2 hrs 35 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   9.68% 
+HTML                     2 hrs 17 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   8.56%
 
 🔥 Editors: 
-VS Code                  23 hrs 50 mins      █████████████████████████   100.0%
+VS Code                  26 hrs 48 mins      █████████████████████████   100.0%
 
 🐱‍💻 Projects: 
-COREVEST_FULL            11 hrs 53 mins      ████████████░░░░░░░░░░░░░   49.85% 
-HCP-New                  8 hrs 29 mins       █████████░░░░░░░░░░░░░░░░   35.59% 
-OfficialScentedNaturaldoc2 hrs 54 mins       ███░░░░░░░░░░░░░░░░░░░░░░   12.23% 
-FiveStar                 33 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   2.32%
+COREVEST_FULL            13 hrs 40 mins      ████████████░░░░░░░░░░░░░   51.03% 
+HCP-New                  9 hrs 39 mins       █████████░░░░░░░░░░░░░░░░   36.03% 
+OfficialScentedNaturaldoc2 hrs 54 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   10.88% 
+FiveStar                 33 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   2.06%
 
 💻 Operating System: 
-Mac                      23 hrs 50 mins      █████████████████████████   100.0%
+Mac                      26 hrs 48 mins      █████████████████████████   100.0%
 
 ```
 
@@ -128,7 +128,7 @@ CSS                      2 repos             ░░░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/lirondco/lirondco/main/charts/bar_graph.png) 
 
 
- Last Updated on 05/10/2022 19:13:00 UTC
+ Last Updated on 06/10/2022 19:05:54 UTC
 <!--END_SECTION:waka-->
 
 [Back to Top](#about)
